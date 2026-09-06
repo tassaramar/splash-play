@@ -8,9 +8,17 @@ subir escaleras de cubos separados sin caerse.
 
 ## Cómo jugarlo
 
-1. Hacer doble clic en el archivo `index.html`.
-2. Se abre en el navegador (Chrome, Safari, el que sea). No hace falta internet
-   ni instalar nada.
+**Desde cualquier compu (el cole, la casa de una amiga):**
+
+👉 **https://tassaramar.github.io/splash-play/**
+
+No hay que instalar ni bajar nada, se abre y se juega.
+
+**Sin internet:** hacer doble clic en el archivo `index.html`. Se abre en el
+navegador igual.
+
+> Lo que vas ganando (los niveles y las mejoras de los animales) se guarda en
+> cada compu por separado. Lo que ganes en el cole no aparece en la de casa.
 
 ## Los controles
 
